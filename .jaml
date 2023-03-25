@@ -1,0 +1,20 @@
+student:
+ name:
+  firstname: Olena
+  lastname: Holovata
+ age: 32
+ active: true
+ address:
+  - countrycode: UA
+    city: Kherson
+    zip: 11111
+    street: Victory
+    housenumber: 35
+    postaladdress: false
+  - countrycode: PL
+    city: Sopot
+    zip: 11-121
+    street: Mlynska
+    housenumber: 14/A
+    postaladdress: true
+ discount:null
